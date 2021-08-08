@@ -17,7 +17,7 @@
   - [Day 7](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE/blob/main/Notebooks/PYTHON_CRASH_COURSE_DAY_7.ipynb) | Movie Recomender System
   - [Day 8](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE/blob/main/Notebooks/PYTHON_CRASH_COURSE_DAY_8.ipynb) | Linear Regression
   - [Day 9](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE/blob/main/Notebooks/PYTHON_CRASH_COURSE_DAY_9.ipynb) | Logistic Regression, Decision Tree
-  - [Day 10](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE/blob/main/Notebooks/PYTHON_CRASH_COURSE_DAY_10.ipynb) | Random Forest, Support Vector Machines(SVM)
+  - [Day 10](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE/blob/main/Notebooks/PYTHON_CRASH_COURSE_DAY_10.ipynb) | Random Forest, Support Vector Machines (SVM)
   - [Day 11](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE/blob/main/Notebooks/PYTHON_CRASH_COURSE_DAY_11.ipynb) | Naive Bayes Classifier, KMeans Clustering
   - [Day 12](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE/blob/main/Notebooks/PYTHON_CRASH_COURSE_DAY_12.ipynb) | Google stock price prediction - RNN
   
