@@ -6,7 +6,7 @@
 
 ## Notebooks
 
-  >[Dataset](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE/tree/main/Dataset)
+  >[Dataset](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE/tree/main/Dataset) | [Notes](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE/tree/main/Notes)
 
   - [Day 1](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE/blob/main/Notebooks/PYTHON_CRASH_COURSE_DAY_1.ipynb) | Variables, Data Types
   - [Day 2](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE/blob/main/Notebooks/PYTHON_CRASH_COURSE_DAY_2.ipynb) | Containers, Dictionary, Manipulation
