@@ -8,18 +8,18 @@
 
   >[Dataset](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE/tree/main/Dataset)
 
-  - [Day 1](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE/blob/main/Notebooks/PYTHON_CRASH_COURSE_DAY_1.ipynb)
-  - [Day 2](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE/blob/main/Notebooks/PYTHON_CRASH_COURSE_DAY_2.ipynb)
-  - [Day 3](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE/blob/main/Notebooks/PYTHON_CRASH_COURSE_DAY_3.ipynb)
-  - [Day 4](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE/blob/main/Notebooks/PYTHON_CRASH_COURSE_DAY_4.ipynb)
-  - [Day 5](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE/blob/main/Notebooks/PYTHON_CRASH_COURSE_DAY_5.ipynb)
-  - [Day 6](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE/blob/main/Notebooks/PYTHON_CRASH_COURSE_DAY_6.ipynb)
-  - [Day 7](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE/blob/main/Notebooks/PYTHON_CRASH_COURSE_DAY_7.ipynb)
-  - [Day 8](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE/blob/main/Notebooks/PYTHON_CRASH_COURSE_DAY_8.ipynb)
-  - [Day 9](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE/blob/main/Notebooks/PYTHON_CRASH_COURSE_DAY_9.ipynb)
-  - [Day 10](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE/blob/main/Notebooks/PYTHON_CRASH_COURSE_DAY_10.ipynb)
-  - [Day 11](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE/blob/main/Notebooks/PYTHON_CRASH_COURSE_DAY_11.ipynb)
-  - [Day 12](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE/blob/main/Notebooks/PYTHON_CRASH_COURSE_DAY_12.ipynb)
+  - [Day 1](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE/blob/main/Notebooks/PYTHON_CRASH_COURSE_DAY_1.ipynb) | Variables, Data Types
+  - [Day 2](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE/blob/main/Notebooks/PYTHON_CRASH_COURSE_DAY_2.ipynb) | Containers, Dictionary, Manipulation
+  - [Day 3](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE/blob/main/Notebooks/PYTHON_CRASH_COURSE_DAY_3.ipynb) | Keywords, Operators, Control Flow Statement, Loops, 
+  - [Day 4](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE/blob/main/Notebooks/PYTHON_CRASH_COURSE_DAY_4.ipynb) | List Comprehensions, Functions, Object Oriented Programming, Inheritance 
+  - [Day 5](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE/blob/main/Notebooks/PYTHON_CRASH_COURSE_DAY_5.ipynb) | Exceptions, Numpy, Array, Sampling, Broadcasting
+  - [Day 6](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE/blob/main/Notebooks/PYTHON_CRASH_COURSE_DAY_6.ipynb) | Pandas, Data Structures, 
+  - [Day 7](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE/blob/main/Notebooks/PYTHON_CRASH_COURSE_DAY_7.ipynb) | Movie Recomender System
+  - [Day 8](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE/blob/main/Notebooks/PYTHON_CRASH_COURSE_DAY_8.ipynb) | Linear Regression
+  - [Day 9](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE/blob/main/Notebooks/PYTHON_CRASH_COURSE_DAY_9.ipynb) | Logistic Regression, Decision Tree
+  - [Day 10](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE/blob/main/Notebooks/PYTHON_CRASH_COURSE_DAY_10.ipynb) | Random Forest, Support Vector Machines(SVM)
+  - [Day 11](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE/blob/main/Notebooks/PYTHON_CRASH_COURSE_DAY_11.ipynb) | Naive Bayes Classifier, KMeans Clustering
+  - [Day 12](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE/blob/main/Notebooks/PYTHON_CRASH_COURSE_DAY_12.ipynb) | Google stock price prediction - RNN
   
   ## Project
   
