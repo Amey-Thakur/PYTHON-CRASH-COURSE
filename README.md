@@ -1,6 +1,7 @@
 # PYTHON CRASH COURSE
  
 ### IIT ROPAR - Diginique Techlabs
+ 
  >**Data Science Machine Learning and AI using Python**
   
  - **[Internship Training](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Experience/IIT%20ROPAR%20-%20Diginique%20Techlabs/IIT%20ROPAR%20-%20Diginique%20Techlabs%20-%20Data%20Science%20Machine%20Learning%20and%20AI%20using%20Python%20-%20Training.pdf)**
@@ -45,6 +46,7 @@
  - **[Day 12](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE/blob/main/Notebooks/PYTHON_CRASH_COURSE_DAY_12.ipynb) |** _Google stock price prediction - RNN_
   
 ## Project
+ 
  >**[Banglore House Price Prediction](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION) | [Web App](https://bangalorehousepriceprediction.herokuapp.com)**
 
 ![Banglore House Price Prediction 1](https://user-images.githubusercontent.com/54937357/128646443-47cd8c0d-6dbb-40bf-b9c7-d992bee3a3db.png)
