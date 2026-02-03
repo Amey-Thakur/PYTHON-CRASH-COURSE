@@ -24,6 +24,21 @@
 *.h5 binary
 *.model binary
 
-# Academic/Scholarly classification
-# Marking as documentation excludes these from language statistics.
-# Removed to allow GitHub language detection for Jupyter Notebooks.
+# GitHub Linguist Overrides
+# Force detection of Jupyter Notebooks
+*.ipynb linguist-language=Jupyter Notebook
+
+# Exclude non-code assets and large datasets from language statistics
+Dataset/* linguist-vendored
+Notes/* linguist-vendored
+Certificates/* linguist-vendored
+screenshots/* linguist-vendored
+Mega/* linguist-vendored
+
+# Mark documentation explicitly to refine language bar
+docs/* linguist-documentation
+README.md linguist-documentation
+SECURITY.md linguist-documentation
+LICENSE linguist-documentation
+CITATION.cff linguist-documentation
+codemeta.json linguist-documentation
