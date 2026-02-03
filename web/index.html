@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Python Crash Course | Amey & Mega</title>
+    <!-- Favicon: Python Logo -->
+    <link rel="icon" type="image/svg+xml"
+        href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' fill='%233776ab'%3E%3Cpath d='M15.9 0C7.5 0 8.1 3.5 8.1 3.5l.1 3.5h7.9s3.5-.1 3.5 3.5v3.4h3.4s3.5-.1 3.5 3.5-3.5 7.1-3.5 7.1h-2.1v-2.9s.1-3.5-3.5-3.5h-7.9s-3.5.1-3.5-3.5V6.6s.1-3.5 3.5-3.5h3.4s1.7 0 1.7-1.4S17.6 0 15.9 0zM7.1 11.1s-3.5.1-3.5 3.5 3.5 7.1 3.5 7.1h2.1v-3.5s-.1-3.5 3.5-3.5h7.9s3.5-.1 3.5 3.5v3.4s-.1 3.5-3.5 3.5h-3.4s-1.7 0-1.7 1.4 1.7 1.7 3.4 1.7c8.4 0 7.8-3.5 7.8-3.5l-.1-3.5h-7.9s-3.5.1-3.5-3.5v-3.4s.1-3.5-3.5-3.5l-3.2.3z'/%3E%3C/svg%3E">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+
+<body>
+    <!-- Premium Splash Loader -->
+    <div id="skeleton-loader">
+        <div class="loader-content">
+            <div class="loader-icon-wrapper">
+                <svg class="loader-icon" viewBox="0 0 32 32" fill="currentColor">
+                    <path
+                        d="M15.9 0C7.5 0 8.1 3.5 8.1 3.5l.1 3.5h7.9s3.5-.1 3.5 3.5v3.4h3.4s3.5-.1 3.5 3.5-3.5 7.1-3.5 7.1h-2.1v-2.9s.1-3.5-3.5-3.5h-7.9s-3.5.1-3.5-3.5V6.6s.1-3.5 3.5-3.5h3.4s1.7 0 1.7-1.4S17.6 0 15.9 0zM7.1 11.1s-3.5.1-3.5 3.5 3.5 7.1 3.5 7.1h2.1v-3.5s-.1-3.5 3.5-3.5h7.9s3.5-.1 3.5 3.5v3.4s-.1 3.5-3.5 3.5h-3.4s-1.7 0-1.7 1.4 1.7 1.7 3.4 1.7c8.4 0 7.8-3.5 7.8-3.5l-.1-3.5h-7.9s-3.5.1-3.5-3.5v-3.4s.1-3.5-3.5-3.5l-3.2.3z" />
+                </svg>
+            </div>
+            <div class="loader-progress-container">
+                <div id="splash-progress-bar"></div>
+            </div>
+            <p class="loader-text pulse-text">Initializing Python Crash Course Hub...</p>
+        </div>
+    </div>
+
+    <div id="app">
+        <div class="top-controls">
+            <button id="theme-toggle" class="control-btn" title="Toggle Theme">
+                <i class="fas fa-moon"></i>
+            </button>
+        </div>
+
+        <header class="hero">
+            <div class="glass-panel reveal">
+                <h1 class="premium-title">Python Crash Course</h1>
+                <p class="subtitle">A structured 12-day journey mastering Data Science, Machine Learning, and Artificial
+                    Intelligence at IIT Ropar (Diginique Techlabs).</p>
+
+                <div class="hero-identity-grid">
+                    <div class="profile-unit">
+                        <a href="https://github.com/Amey-Thakur" target="_blank" class="author-pill">
+                            <img src="https://github.com/Amey-Thakur.png" alt="Amey">
+                            <span>Amey Thakur</span>
+                        </a>
+                    </div>
+                    <div class="profile-unit">
+                        <a href="https://github.com/msatmod" target="_blank" class="author-pill">
+                            <img src="Mega/Mega_Professional.jpg" alt="Mega">
+                            <span>Mega Satish</span>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="hero-stats-merge">
+                    <div class="stat-unit">
+                        <span id="milestone-count" class="stat-value">12</span>
+                        <span class="stat-label">Daily Modules</span>
+                    </div>
+                    <div class="stat-unit">
+                        <span class="stat-value">100%</span>
+                        <span class="stat-label">Achievement</span>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <main class="container">
+            <!-- Featured Project -->
+            <section id="featured" class="featured-section reveal">
+                <h2 class="section-title">Featured Project</h2>
+                <div id="featured-root">
+                    <!-- Featured Project Card injected here -->
+                </div>
+            </section>
+
+            <!-- Curriculum Explorer -->
+            <section id="curriculum" class="reveal">
+                <h2 class="section-title">Curriculum Explorer</h2>
+                <div class="day-grid" id="day-grid">
+                    <!-- Days injected here -->
+                </div>
+            </section>
+
+            <!-- Certifications -->
+            <section id="certifications" class="reveal">
+                <h2 class="section-title">Scholarly Credentials</h2>
+                <div class="cert-grid" id="cert-grid">
+                    <!-- Certs injected here -->
+                </div>
+            </section>
+        </main>
+
+        <footer
+            style="text-align: center; padding: 3rem; color: var(--text-secondary); border-top: 1px solid var(--border-color);">
+            <p>Created by <a href="https://github.com/Amey-Thakur"
+                    style="color: var(--accent-blue); text-decoration: none;">Amey Thakur</a> & <a
+                    href="https://github.com/msatmod" style="color: var(--accent-blue); text-decoration: none;">Mega
+                    Satish</a></p>
+            <p style="font-size: 0.8rem; margin-top: 1rem;">&copy; 2026 Python Crash Course Archive</p>
+        </footer>
+    </div>
+
+    <!-- Modals -->
+    <div id="notebook-modal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 id="modal-title">Notebook Viewer</h3>
+                <button class="close-modal">&times;</button>
+            </div>
+            <div class="modal-body" id="notebook-content"></div>
+        </div>
+    </div>
+
+    <!-- Certificate Modal -->
+    <div id="cert-modal" class="modal">
+        <div class="modal-content" style="max-width: 800px; height: auto;">
+            <div class="modal-header">
+                <h3 id="cert-title">Certificate Viewer</h3>
+                <button class="close-modal">&times;</button>
+            </div>
+            <div class="modal-body" style="padding: 0;">
+                <img id="cert-full-image" src="" alt="Certificate" style="width: 100%; border-radius: 0 0 24px 24px;">
+            </div>
+        </div>
+    </div>
+
+    <script src="js/data.js"></script>
+    <script src="js/app.js"></script>
+</body>
+
+</html>
