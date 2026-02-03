@@ -273,11 +273,7 @@ Copyright © 2021 Amey Thakur & Mega Satish
 
 **Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur) & [Mega Satish](https://github.com/msatmod)
 
-**Python Crash Course** represents a significant milestone in the scholarly journey of [**Amey Thakur**](https://github.com/Amey-Thakur) and [**Mega Satish**](https://github.com/msatmod). While it documents a 12-day curriculum at **IIT Ropar – Diginique Techlabs**, its scope extends far beyond a standard educational requirement. 
-
-This repository is a testament to technical curiosity and collaborative rigor. It bridges the gap between academic theory—rooted in a **Bachelor of Engineering (Computer Engineering)** from the University of Mumbai—and applied **Data Science**, **Machine Learning**, and **Artificial Intelligence**. From mastering the Python ecosystem (Pandas, Scikit-Learn, TensorFlow) to publishing research on property valuation, this project encapsulates a complete technical lifecycle: exploratory data analysis, algorithmic experimentation, and product deployment. 
-
-The repository serves as a archival record of a disciplined effort to master the computational tools that drive modern AI, ensuring that every line of code contributes to a verifiable and reproducible learning roadmap.
+**Python Crash Course** serves as a comprehensive technical archive for a structured 12-day curriculum focused on **Data Science**, **Machine Learning**, and **Artificial Intelligence**. This repository bridges foundational computer engineering principles with applied analytics, documenting the complete technical lifecycle from exploratory data analysis and algorithmic modeling to real-world product deployment. It provides a verifiable and reproducible roadmap for mastering the modern Python ecosystem through disciplined, daily milestones.
 
 **Connect:** [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
 
