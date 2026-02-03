@@ -279,7 +279,7 @@ Copyright © 2021 Amey Thakur & Mega Satish
 
 ### Acknowledgments
 
-Grateful acknowledgment to [**Mega Satish**](https://github.com/msatmod) for her exceptional collaboration and scholarly partnership during this Python Crash Course. Her intellectual agility, a veritable superpower to rapidly synthesize complex logic and articulate it with clarity, was the driving force behind this project's success. She processed new concepts with remarkable speed, clarifying intricate details in a way that made learning reciprocal and effortless. Her engagement was not merely supportive but vital; this rigorous curriculum would not have been completed without her steady discipline, ability to simplify the complex, and constant encouragement. Thank you, Mega, for everything you shared and taught along the way.
+Grateful acknowledgment to [**Mega Satish**](https://github.com/msatmod) for her exceptional collaboration and scholarly partnership during this Python Crash Course. Her intellectual agility—a veritable superpower to rapidly synthesize complex logic and articulate it with clarity—was the driving force behind the successful mastery of this intensive curriculum. She navigated advanced Python and AI concepts with remarkable speed, clarifying intricate details in a way that made the learning process reciprocal and effortless. Her engagement was essential for the completion of these daily milestones; this educational journey would not have been possible without her steady discipline, ability to simplify the complex, and constant encouragement. Thank you, Mega, for everything you shared and taught along the way.
 
 Special thanks to the **mentors and peers** whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
