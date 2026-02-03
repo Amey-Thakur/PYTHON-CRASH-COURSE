@@ -252,7 +252,7 @@ By leveraging **Scikit-learn**, the system models the real estate landscape wher
   <img src="screenshots/price_result.png" width="80%" alt="Price Result">
 </div>
 
----
+
 ---
 
 <a name="results"></a>
