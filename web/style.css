@@ -136,8 +136,23 @@ body {
     text-align: center;
 }
 
+@keyframes gradientBG {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
 .glass-panel {
-    background: var(--panel-bg);
+    background: linear-gradient(-45deg, rgba(22, 27, 34, 0.6), rgba(88, 166, 255, 0.05), rgba(22, 27, 34, 0.6), rgba(188, 140, 255, 0.05));
+    background-size: 400% 400%;
     backdrop-filter: blur(16px);
     -webkit-backdrop-filter: blur(16px);
     border: 1px solid var(--border-color);
@@ -147,6 +162,14 @@ body {
     position: relative;
     max-width: 1100px;
     margin: 0 auto;
+    animation: gradientBG 15s ease infinite;
+    transition: all 0.4s ease;
+}
+
+.glass-panel:hover {
+    transform: translateY(-8px);
+    border-color: var(--accent-blue);
+    box-shadow: 0 20px 50px rgba(88, 166, 255, 0.15);
 }
 
 /* Hero Identity Grid */
@@ -430,18 +453,25 @@ body {
     overflow: hidden;
     border: 1px solid var(--border-color);
     cursor: zoom-in;
-    transition: all 0.4s ease;
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
 
 .cert-card:hover {
-    transform: scale(1.02);
-    border-color: var(--accent-green);
+    transform: scale(1.03) translateY(-10px);
+    border-color: var(--accent-purple);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
 }
 
 .cert-image {
     width: 100%;
     height: 250px;
     object-fit: cover;
+    object-position: top;
+    transition: transform 0.5s ease;
+}
+
+.cert-card:hover .cert-image {
+    transform: scale(1.1);
 }
 
 .cert-info {
@@ -512,10 +542,45 @@ body {
 
 /* Theme Toggle */
 .top-controls {
-    position: fixed;
+    position: absolute;
     top: 2rem;
     right: 2rem;
     z-index: 5000;
+    display: flex;
+    gap: 1rem;
+}
+
+/* Back to Top Button */
+#back-to-top {
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    width: 50px;
+    height: 50px;
+    background: var(--panel-bg);
+    color: var(--text-primary);
+    border: 1px solid var(--border-color);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    z-index: 4999;
+    opacity: 0;
+    pointer-events: none;
+    transition: all 0.3s ease;
+}
+
+#back-to-top.visible {
+    opacity: 1;
+    pointer-events: auto;
+    transform: translateY(0);
+}
+
+#back-to-top:hover {
+    background: var(--accent-blue);
+    color: var(--bg-color);
+    transform: translateY(-5px);
 }
 
 .control-btn {
@@ -530,14 +595,47 @@ body {
 
 @media (max-width: 768px) {
     .premium-title {
-        font-size: 2.5rem;
+        font-size: 2.8rem;
+        line-height: 1.1;
+    }
+
+    .subtitle {
+        font-size: 1.1rem;
+    }
+
+    .glass-panel {
+        padding: 2.5rem 1.5rem;
     }
 
     .featured-card {
         grid-template-columns: 1fr;
+        padding: 1.5rem;
     }
 
     .cert-grid {
         grid-template-columns: 1fr;
+    }
+
+    .hero-identity-grid {
+        gap: 1rem;
+    }
+
+    .day-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .top-controls {
+        top: 1rem;
+        right: 1rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .premium-title {
+        font-size: 2.2rem;
+    }
+
+    .stat-value {
+        font-size: 2.2rem;
     }
 }
