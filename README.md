@@ -8,7 +8,7 @@
   [![Technology](https://img.shields.io/badge/Technology-Python%20%7C%20Data%20Science-blueviolet)](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE)
   [![Curated by Amey Thakur and Mega Satish](https://img.shields.io/badge/Curated%20by-Amey%20Thakur%20%26%20Mega%20Satish-blue.svg)](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE)
 
-  IIT Ropar – Diginique Techlabs: Python Crash Course in Data Science, Machine Learning, and Artificial Intelligence. This repository documents a structured curriculum from basic syntax to advanced deep learning and certification.
+  IIT Ropar (Diginique Techlabs): Python Crash Course in Data Science, Machine Learning, and Artificial Intelligence. This repository documents a structured curriculum from basic syntax to advanced deep learning and certification.
 
   **[Curriculum](#features)** &nbsp;·&nbsp; **[Amey's Kaggle](https://www.kaggle.com/ameythakur20)** &nbsp;·&nbsp; **[Mega's Kaggle](https://www.kaggle.com/megasatish)** &nbsp;·&nbsp; **[Certifications](#results)**
 
@@ -45,7 +45,7 @@
 <a name="overview"></a>
 ## Overview
 
-**Python Crash Course** features the **IIT Ropar – Diginique Techlabs: Python Crash Course in Data Science, Machine Learning, and Artificial Intelligence**. Curated by [**Amey Thakur**](https://github.com/Amey-Thakur) and [**Mega Satish**](https://github.com/msatmod), this project documents a disciplined 12-day curriculum. We successfully navigated the course material, from foundational logic to advanced machine learning models, earning recognized certifications as a testament to this scholarly effort.
+**Python Crash Course** features the **IIT Ropar (Diginique Techlabs): Python Crash Course in Data Science, Machine Learning, and Artificial Intelligence**. Curated by [**Amey Thakur**](https://github.com/Amey-Thakur) and [**Mega Satish**](https://github.com/msatmod), this project documents a disciplined 12-day curriculum. We successfully navigated the course material, from foundational logic to advanced machine learning models, earning recognized certifications as a testament to this scholarly effort.
 
 The project demonstrates a disciplined approach to upskilling in Data Science, leveraging the **Python Ecosystem** (Pandas, Numpy, Scikit-Learn, TensorFlow) to solve real-world analytical problems.
 
@@ -295,7 +295,7 @@ Special thanks to the **mentors and peers** whose encouragement, discussions, an
 
   [↑ Back to Top](#readme-top)
 
-  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Activity](#activity) &nbsp;·&nbsp; [Curriculum](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Certifications](#results) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Activity](#activity) &nbsp;·&nbsp; [Curriculum](#features) &nbsp;·&nbsp; [Project](#projects) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Certifications](#results) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
   <br>
 
