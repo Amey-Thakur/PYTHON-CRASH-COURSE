@@ -18,7 +18,7 @@
 
 <div align="center">
 
-  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Activity](#activity) &nbsp;·&nbsp; [Curriculum](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Certifications](#results) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Activity](#activity) &nbsp;·&nbsp; [Curriculum](#features) &nbsp;·&nbsp; [Project](#projects) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Certifications](#results) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -117,7 +117,9 @@ The curriculum is governed by strict **computational data science principles**:
 
 ---
 
-### 🚀 Featured Project
+<!-- PROJECTS -->
+<a name="projects"></a>
+## Featured Project
 **[Bangalore House Price Prediction](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION)**  
 _A robust regression study targeting real-world property valuation._
 
