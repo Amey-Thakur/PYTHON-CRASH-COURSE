@@ -186,15 +186,15 @@ PYTHON-CRASH-COURSE/
   </a>
   <br><br>
   <a href="Certificates/Project%20Completion%20Letter.pdf">
-    <img src="Certificates/Project%20Completion%20Letter.png" width="31.5%" alt="Project Completion">
+    <img src="Certificates/Project%20Completion%20Letter.png" width="48%" alt="Project Completion">
   </a>
   &nbsp;
   <a href="Certificates/Internship%20Completion%20Letter.pdf">
-    <img src="Certificates/Internship%20Completion%20Letter.png" width="31.5%" alt="Internship Completion">
+    <img src="Certificates/Internship%20Completion%20Letter.png" width="48%" alt="Internship Completion">
   </a>
-  &nbsp;
+  <br><br>
   <a href="Certificates/Letter%20of%20Recommendation.pdf">
-    <img src="Certificates/Letter%20of%20Recommendation.png" width="31.5%" alt="Letter of Recommendation">
+    <img src="Certificates/Letter%20of%20Recommendation.png" width="48%" alt="Letter of Recommendation">
   </a>
   <br><br>
 </div>
