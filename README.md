@@ -7,6 +7,7 @@
   ![Status](https://img.shields.io/badge/Status-Completed-success)
   [![Technology](https://img.shields.io/badge/Technology-Python%20%7C%20Data%20Science-blueviolet)](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE)
   [![Curated by Amey Thakur and Mega Satish](https://img.shields.io/badge/Curated%20by-Amey%20Thakur%20%26%20Mega%20Satish-blue.svg)](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE)
+  **[View Interactive Portfolio](https://Amey-Thakur.github.io/PYTHON-CRASH-COURSE/)**
 
   IIT Ropar (Diginique Techlabs): Python Crash Course in Data Science, Machine Learning, and Artificial Intelligence. This repository documents a structured curriculum from basic syntax to advanced deep learning and certification.
 
