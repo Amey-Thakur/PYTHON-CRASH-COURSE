@@ -119,45 +119,68 @@ The curriculum is governed by strict **computational data science principles**:
 
 <!-- PROJECTS -->
 <a name="projects"></a>
-<div align="center">
-  <h2>🏠 Featured Project</h2>
-</div>
-
-**[Bangalore House Price Prediction](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION)**  
-_A robust regression study targeting real-world property valuation._
+## Featured Project
 
 <div align="center">
-  <br>
+  <a name="projects"></a>
+  <h3>🏠 [Bangalore House Price Prediction](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION)</h3>
+  <i>A machine learning study demonstrating the application of Multivariate Regression algorithms to estimate real estate prices with high precision based on structural parameters.</i>
+  <br><br>
+  <a href="https://youtu.be/HaiXYHBPHVg">
+    <img src="https://img.youtube.com/vi/HaiXYHBPHVg/maxresdefault.jpg" alt="Video Demo" width="80%">
+  </a>
+  <br><br>
   <a href="https://bangalorehousepriceprediction.herokuapp.com">
-    <img src="https://img.shields.io/badge/Live%20Demo-Web%20App-brightgreen?style=for-the-badge&logo=heroku" alt="Live Demo">
+    <img src="https://img.shields.io/badge/Live%20Demo-Web%20App-brightgreen?logo=heroku" alt="Live Demo">
   </a>
   &nbsp;
   <a href="https://www.irjet.net/archives/V8/i9/IRJET-V8I934.pdf">
-    <img src="https://img.shields.io/badge/Publication-IRJET%20Paper-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Publication">
+    <img src="https://img.shields.io/badge/Publication-IRJET%20Paper-blue?logo=adobeacrobatreader" alt="Publication">
   </a>
   &nbsp;
   <a href="https://vixra.org/abs/2110.0026">
-    <img src="https://img.shields.io/badge/Preprint-viXra%20Archive-orange?style=for-the-badge" alt="Preprint">
+    <img src="https://img.shields.io/badge/Preprint-viXra%20Archive-orange" alt="Preprint">
   </a>
-  <br><br>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/54937357/128646443-47cd8c0d-6dbb-40bf-b9c7-d992bee3a3db.png" width="32%" alt="Project Screenshot 1">
-  <img src="https://user-images.githubusercontent.com/54937357/128646450-0196b72e-631d-44ca-b108-b4ea190a97f6.png" width="32%" alt="Project Screenshot 2">
-  <img src="https://user-images.githubusercontent.com/54937357/128646460-0025fd0c-9dcb-4474-9019-043bbda4353c.png" width="32%" alt="Project Screenshot 3">
-</div>
+### Overview
+**Bangalore House Price Prediction** is a machine learning study conducted as part of the **Summer Internship** at **IIT ROPAR - Diginique Techlabs**. The project focuses on the development of a robust regression model capable of predicting property prices in Bangalore with high accuracy.
+
+By leveraging **Scikit-learn**, the system models the real estate landscape where an algorithm learns the relationship between independent variables (Location, Sqft, BHK) and the dependent variable (Price). The model is served via a **Flask** web server for real-time estimation.
 
 > [!IMPORTANT]
 > ### 🏠 Property Valuation Intelligence
-> This project represents the practical application of the **Python Crash Course** curriculum. It features an end-to-end Machine Learning pipeline—from outlier detection and dimensionality reduction to model serving via Flask. 
+> This project represents the practical application of the **Python Crash Course** curriculum. It features an end-to-end Machine Learning pipeline—from outlier detection and dimensionality reduction to model serving via Flask.
 
-### Research Impact & Certification
-This project was published as a research paper in the **International Research Journal of Engineering and Technology (IRJET)** (Volume 8, Issue 9) and received an official **Publication Certificate** for its research contribution to machine learning education.
+<div align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/54937357/128646443-47cd8c0d-6dbb-40bf-b9c7-d992bee3a3db.png" width="32%" alt="Project Screenshot 1">
+  <img src="https://user-images.githubusercontent.com/54937357/128646450-0196b72e-631d-44ca-b108-b4ea190a97f6.png" width="32%" alt="Project Screenshot 2">
+  <img src="https://user-images.githubusercontent.com/54937357/128646460-0025fd0c-9dcb-4474-9019-043bbda4353c.png" width="32%" alt="Project Screenshot 3">
+  <br><br>
+</div>
 
-- [Preprint @viXra](https://vixra.org/abs/2110.0026)
-- [Published Paper @IRJET](https://www.irjet.net/archives/V8/i9/IRJET-V8I934.pdf)
-- [Publication Certificate](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION/blob/main/Research%20Paper/IRJET%20-%20Bangalore%20House%20Price%20Prediction.jpg)
+> [!NOTE]
+> ### Research Impact & Certification
+> This project was published as a research paper in the **International Research Journal of Engineering and Technology (IRJET)** (Volume 8, Issue 9) and is also available as a preprint on **viXra**. The project received an official **Publication Certificate** for its research contribution to machine learning education.
+>
+> *   [Preprint @viXra](https://vixra.org/abs/2110.0026)
+> *   [Published Paper @IRJET](https://www.irjet.net/archives/V8/i9/IRJET-V8I934.pdf)
+> *   [Publication Certificate](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION/blob/main/Research%20Paper/IRJET%20-%20Bangalore%20House%20Price%20Prediction.jpg)
+
+### Resources
+| # | Resource | Description | Date |
+| :---: | :--- | :--- | :--- |
+| 1 | [**Source Code**](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION/tree/main/Source%20Code) | Complete production repository and weights | — |
+| 2 | [**Kaggle Notebook**](https://www.kaggle.com/code/ameythakur20/bangalore-house-price-prediction-model) | Interactive Jupyter notebook for model training | — |
+| 3 | [**Dataset**](https://www.kaggle.com/datasets/ameythakur20/bangalore-house-prices/) | Curated Bangalore real estate market dataset | — |
+| 4 | [**Technical Specification**](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION/blob/main/docs/SPECIFICATION.md) | System architecture and specifications | — |
+| 5 | [**Technical Report**](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION/blob/main/BHPP/AMEY%20THAKUR%20-%20BANGALORE%20HOUSE%20PRICE%20PREDICTION.pdf) | Comprehensive archival project documentation | September 2021 |
+| 6 | [**Publication Certificate**](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION/blob/main/Research%20Paper/IRJET%20-%20Bangalore%20House%20Price%20Prediction.jpg) | Recognition for research excellence | September 2021 |
+
+> [!TIP]
+> ### Model Retraining & Market Adaptation
+> To maintain prediction accuracy amidst fluctuating real estate markets, it is recommended to periodically retrain the model with updated property datasets. The provided `model_training.py` pipeline supports incremental updates, ensuring the regression coefficients reflect current economic trends and property valuations.
 
 ### Technical Stack & Features
 | Component | Technical Description |
