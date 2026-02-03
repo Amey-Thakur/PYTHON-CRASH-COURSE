@@ -122,21 +122,10 @@ The curriculum is governed by strict **computational data science principles**:
 
 <div align="center">
   <h3>🏠 <a href="https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION">Bangalore House Price Prediction</a></h3>
-  <a href="https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION">
-    <img src="https://img.shields.io/badge/GitHub-Repository-black?logo=github" alt="GitHub">
-  </a>
-  &nbsp;
-  <a href="https://huggingface.co/spaces/ameythakur/Bangalore-House-Price-Prediction">
-    <img src="https://img.shields.io/badge/Live%20Demo-Web%20App-brightgreen?logo=huggingface" alt="Live Demo">
-  </a>
-  &nbsp;
-  <a href="https://www.irjet.net/archives/V8/i9/IRJET-V8I934.pdf">
-    <img src="https://img.shields.io/badge/Publication-IRJET%20Paper-blue?logo=adobeacrobatreader" alt="Publication">
-  </a>
-  &nbsp;
-  <a href="https://vixra.org/abs/2110.0026">
-    <img src="https://img.shields.io/badge/Preprint-viXra%20Archive-orange" alt="Preprint">
-  </a>
+  <a href="https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION"><img src="https://img.shields.io/badge/GitHub-Repository-black?logo=github" alt="GitHub"></a> &nbsp;
+  <a href="https://huggingface.co/spaces/ameythakur/Bangalore-House-Price-Prediction"><img src="https://img.shields.io/badge/Live%20Demo-Web%20App-brightgreen?logo=huggingface" alt="Live Demo"></a> &nbsp;
+  <a href="https://www.irjet.net/archives/V8/i9/IRJET-V8I934.pdf"><img src="https://img.shields.io/badge/Publication-IRJET%20Paper-blue?logo=adobeacrobatreader" alt="Publication"></a> &nbsp;
+  <a href="https://vixra.org/abs/2110.0026"><img src="https://img.shields.io/badge/Preprint-viXra%20Archive-orange" alt="Preprint"></a>
   <br><br>
   <i>A machine learning study demonstrating the application of Multivariate Regression algorithms to estimate real estate prices with high precision based on structural parameters.</i>
 </div>
