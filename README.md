@@ -68,8 +68,8 @@ The curriculum is governed by strict **computational data science principles**:
 <div align="center">
 
 ### 🗓️ 12-Day Coding Streak
-`✅ ✅ ✅ ✅ ✅ ✅`
-`✅ ✅ ✅ ✅ ✅ ✅`
+`✅ ✅ ✅ ✅ ✅ ✅`  
+`✅ ✅ ✅ ✅ ✅ ✅`  
 **Continuity: 100% (12/12 Days)**
 
 <br>
@@ -84,8 +84,8 @@ The curriculum is governed by strict **computational data science principles**:
 <br>
 
 ### 📈 Skill Evolution
-**Day 1 (Novice Syntax):** `[▬▬-------------]`
-**Day 12 (Advanced AI):** `[▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬]`
+**Day 1 (Novice Syntax):** `[▬▬-------------]`  
+**Day 12 (Advanced AI Core):** `[▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬]`
 
 </div>
 
