@@ -111,6 +111,22 @@ The curriculum is governed by strict **computational data science principles**:
 - [x] **Day 11** - Naive Bayes, KMeans Clustering &nbsp;&nbsp; [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white)](https://www.kaggle.com/code/ameythakur20/python-crash-course-day-11) &nbsp;&nbsp; [![Colab](https://img.shields.io/badge/Colab-F9AB00?logo=Google-Colab&logoColor=white)](https://colab.research.google.com/github/Amey-Thakur/PYTHON-CRASH-COURSE/blob/main/Notebooks/PYTHON_CRASH_COURSE_DAY_11.ipynb)
 - [x] **Day 12** - Stock Price Prediction (RNN) &nbsp;&nbsp; [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white)](https://www.kaggle.com/code/ameythakur20/python-crash-course-day-12) &nbsp;&nbsp; [![Colab](https://img.shields.io/badge/Colab-F9AB00?logo=Google-Colab&logoColor=white)](https://colab.research.google.com/github/Amey-Thakur/PYTHON-CRASH-COURSE/blob/main/Notebooks/PYTHON_CRASH_COURSE_DAY_12.ipynb)
 
+<br>
+
+### 🚀 Featured Project
+**[Bangalore House Price Prediction](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION)**  
+_A robust regression study targeting real-world property valuation._
+
+[![Live Web App](https://img.shields.io/badge/Web%20App-Live-brightgreen?style=for-the-badge&logo=heroku)](https://bangalorehousepriceprediction.herokuapp.com)
+[![Research Paper](https://img.shields.io/badge/Paper-IRJET-blue?style=for-the-badge&logo=adobeacrobatreader)](https://www.irjet.net/archives/V8/i9/IRJET-V8I934.pdf)
+[![Preprint](https://img.shields.io/badge/Preprint-viXra-orange?style=for-the-badge)](https://vixra.org/abs/2110.0026)
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/54937357/128646443-47cd8c0d-6dbb-40bf-b9c7-d992bee3a3db.png" width="32%" alt="Project Screenshot 1">
+  <img src="https://user-images.githubusercontent.com/54937357/128646450-0196b72e-631d-44ca-b108-b4ea190a97f6.png" width="32%" alt="Project Screenshot 2">
+  <img src="https://user-images.githubusercontent.com/54937357/128646460-0025fd0c-9dcb-4474-9019-043bbda4353c.png" width="32%" alt="Project Screenshot 3">
+</div>
+
 > [!NOTE]
 > ### Detailed Daily Logs
 > Detailed code and notebooks for every single day are available in the repository structure. Refer to the directory tree below to navigate to specific topics.
@@ -257,7 +273,11 @@ Copyright © 2021 Amey Thakur & Mega Satish
 
 **Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur) & [Mega Satish](https://github.com/msatmod)
 
-IIT Ropar – Diginique Techlabs: Python Crash Course in Data Science, Machine Learning, and Artificial Intelligence.
+**Python Crash Course** represents a significant milestone in the scholarly journey of [**Amey Thakur**](https://github.com/Amey-Thakur) and [**Mega Satish**](https://github.com/msatmod). While it documents a 12-day curriculum at **IIT Ropar – Diginique Techlabs**, its scope extends far beyond a standard educational requirement. 
+
+This repository is a testament to technical curiosity and collaborative rigor. It bridges the gap between academic theory—rooted in a **Bachelor of Engineering (Computer Engineering)** from the University of Mumbai—and applied **Data Science**, **Machine Learning**, and **Artificial Intelligence**. From mastering the Python ecosystem (Pandas, Scikit-Learn, TensorFlow) to publishing research on property valuation, this project encapsulates a complete technical lifecycle: exploratory data analysis, algorithmic experimentation, and product deployment. 
+
+The repository serves as a archival record of a disciplined effort to master the computational tools that drive modern AI, ensuring that every line of code contributes to a verifiable and reproducible learning roadmap.
 
 **Connect:** [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
 
