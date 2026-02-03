@@ -117,19 +117,11 @@ The curriculum is governed by strict **computational data science principles**:
 
 ---
 
-<!-- PROJECTS -->
 <a name="projects"></a>
 ## Featured Project
 
 <div align="center">
-  <a name="projects"></a>
-  <h3>🏠 [Bangalore House Price Prediction](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION)</h3>
-  <i>A machine learning study demonstrating the application of Multivariate Regression algorithms to estimate real estate prices with high precision based on structural parameters.</i>
-  <br><br>
-  <a href="https://youtu.be/HaiXYHBPHVg">
-    <img src="https://img.youtube.com/vi/HaiXYHBPHVg/maxresdefault.jpg" alt="Video Demo" width="80%">
-  </a>
-  <br><br>
+  <h3>🏠 <a href="https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION">Bangalore House Price Prediction</a></h3>
   <a href="https://bangalorehousepriceprediction.herokuapp.com">
     <img src="https://img.shields.io/badge/Live%20Demo-Web%20App-brightgreen?logo=heroku" alt="Live Demo">
   </a>
@@ -140,6 +132,12 @@ The curriculum is governed by strict **computational data science principles**:
   &nbsp;
   <a href="https://vixra.org/abs/2110.0026">
     <img src="https://img.shields.io/badge/Preprint-viXra%20Archive-orange" alt="Preprint">
+  </a>
+  <br><br>
+  <i>A machine learning study demonstrating the application of Multivariate Regression algorithms to estimate real estate prices with high precision based on structural parameters.</i>
+  <br><br>
+  <a href="https://youtu.be/HaiXYHBPHVg">
+    <img src="https://img.youtube.com/vi/HaiXYHBPHVg/maxresdefault.jpg" alt="Video Demo" width="80%">
   </a>
 </div>
 
