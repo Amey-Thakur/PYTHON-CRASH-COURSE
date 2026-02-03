@@ -25,5 +25,5 @@
 *.model binary
 
 # Academic/Scholarly classification
-*.md linguist-documentation
-*.ipynb linguist-documentation
+# Marking as documentation excludes these from language statistics.
+# Removed to allow GitHub language detection for Jupyter Notebooks.
