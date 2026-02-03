@@ -128,8 +128,8 @@ PYTHON-CRASH-COURSE/
 │   └── SPECIFICATION.md             # Technical Architecture
 │
 ├── Mega/                            # Attribution Assets
-│   ├── Mega.png                     # Profile Image (Mega Satish)
-│   └── ...                          # Additional Assets
+│   ├── Filly.jpg                    # Companion (Filly)
+│   └── Mega.png                     # Profile Image (Mega Satish)
 │
 ├── IIT ROPAR - Diginique Techlabs/  # Course Completion Credentials
 │   ├── Internship Completion Letter.pdf
