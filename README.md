@@ -131,11 +131,11 @@ PYTHON-CRASH-COURSE/
 │   ├── Filly.jpg                    # Companion (Filly)
 │   └── Mega.png                     # Profile Image (Mega Satish)
 │
-├── IIT ROPAR - Diginique Techlabs/  # Course Completion Credentials
-│   ├── Internship Completion Letter.pdf
-│   ├── Letter of Recommendation.pdf
-│   ├── Project Completion Letter.pdf
-│   └── Training.pdf
+├── Certificates/                    # Course Completion Credentials
+│   ├── Internship Completion ...png # Internship Completion Letter
+│   ├── Letter of Recommendation.png # Letter of Recommendation
+│   ├── Project Completion ...png    # Project Completion Letter
+│   └── Training.png                 # Course Training Certificate
 │
 ├── Notebooks/                       # Core Learning Modules
 │   ├── PYTHON_CRASH_COURSE_DAY_1.ipynb  # Foundations
@@ -165,16 +165,20 @@ PYTHON-CRASH-COURSE/
   <br>
   <i>Certified completion of advanced Python programming and AI concepts at IIT Ropar (Diginique Techlabs).</i>
   <br><br>
-  <a href="IIT%20ROPAR%20-%20Diginique%20Techlabs/Internship%20Completion%20Letter.pdf">
-    <img src="https://img.shields.io/badge/Certificate-Internship%20Completion-FFD700?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" alt="Internship Completion">
+  <a href="Certificates/Training.pdf">
+    <img src="Certificates/Training.png" width="48%" alt="Training Certificate">
   </a>
   &nbsp;
-  <a href="IIT%20ROPAR%20-%20Diginique%20Techlabs/Letter%20of%20Recommendation.pdf">
-    <img src="https://img.shields.io/badge/Certificate-Letter%20of%20Recommendation-FFD700?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" alt="Letter of Recommendation">
+  <a href="Certificates/Project%20Completion%20Letter.pdf">
+    <img src="Certificates/Project%20Completion%20Letter.png" width="48%" alt="Project Completion">
+  </a>
+  <br><br>
+  <a href="Certificates/Internship%20Completion%20Letter.pdf">
+    <img src="Certificates/Internship%20Completion%20Letter.png" width="48%" alt="Internship Completion">
   </a>
   &nbsp;
-  <a href="IIT%20ROPAR%20-%20Diginique%20Techlabs/Project%20Completion%20Letter.pdf">
-    <img src="https://img.shields.io/badge/Certificate-Project%20Completion-FFD700?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" alt="Project Completion">
+  <a href="Certificates/Letter%20of%20Recommendation.pdf">
+    <img src="Certificates/Letter%20of%20Recommendation.png" width="48%" alt="Letter of Recommendation">
   </a>
   <br><br>
 </div>
