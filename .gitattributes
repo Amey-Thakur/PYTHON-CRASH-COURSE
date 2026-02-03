@@ -10,6 +10,7 @@
 *.md text
 *.txt text
 *.csv text
+*.data text
 
 # Mark binary files
 *.jpg binary
@@ -17,6 +18,11 @@
 *.gif binary
 *.ico binary
 *.pdf binary
+
+# ML Models
+*.pkl binary
+*.h5 binary
+*.model binary
 
 # Academic/Scholarly classification
 *.md linguist-documentation
