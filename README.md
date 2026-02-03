@@ -122,8 +122,8 @@ The curriculum is governed by strict **computational data science principles**:
 
 <div align="center">
   <h3>🏠 <a href="https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION">Bangalore House Price Prediction</a></h3>
-  <a href="https://bangalorehousepriceprediction.herokuapp.com">
-    <img src="https://img.shields.io/badge/Live%20Demo-Web%20App-brightgreen?logo=heroku" alt="Live Demo">
+  <a href="https://huggingface.co/spaces/ameythakur/Bangalore-House-Price-Prediction">
+    <img src="https://img.shields.io/badge/Live%20Demo-Web%20App-brightgreen?logo=huggingface" alt="Live Demo">
   </a>
   &nbsp;
   <a href="https://www.irjet.net/archives/V8/i9/IRJET-V8I934.pdf">
@@ -136,6 +136,10 @@ The curriculum is governed by strict **computational data science principles**:
   <br><br>
   <i>A machine learning study demonstrating the application of Multivariate Regression algorithms to estimate real estate prices with high precision based on structural parameters.</i>
   <br><br>
+  
+  > [!WARNING]
+  > **Legacy Hosting Notice**: This application was originally hosted on **Heroku** (`https://bangalorehousepriceprediction.herokuapp.com`). However, due to the discontinuation of their free tier and maintenance support, the live instance has been successfully migrated to **Hugging Face Spaces** for continued availability.
+
   <a href="https://youtu.be/HaiXYHBPHVg">
     <img src="https://img.youtube.com/vi/HaiXYHBPHVg/maxresdefault.jpg" alt="Video Demo" width="80%">
   </a>
