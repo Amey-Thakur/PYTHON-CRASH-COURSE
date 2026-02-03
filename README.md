@@ -18,7 +18,7 @@
 
 <div align="center">
 
-  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Activity](#activity) &nbsp;·&nbsp; [Curriculum](#features) &nbsp;·&nbsp; [Project](#projects) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Certifications](#results) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Activity](#activity) &nbsp;·&nbsp; [Curriculum](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Project](#projects) &nbsp;·&nbsp; [Certifications](#results) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -117,6 +117,54 @@ The curriculum is governed by strict **computational data science principles**:
 
 ---
 
+<!-- STRUCTURE -->
+<a name="project-structure"></a>
+## Project Structure
+
+```python
+PYTHON-CRASH-COURSE/
+│
+├── screenshots/                     # Project UI Visuals
+│   ├── home_page.png                # Landing Interface
+│   ├── prediction_input.png         # Input Methodology
+│   └── price_result.png             # Output Estimation
+│
+├── docs/                            # Documentation Layer
+│   └── SPECIFICATION.md             # Technical Architecture
+│
+├── Mega/                            # Attribution Assets
+│   ├── Filly.jpg                    # Companion (Filly)
+│   └── Mega.png                     # Profile Image (Mega Satish)
+│
+├── Certificates/                    # Course Completion Credentials
+│   ├── Internship Completion Letter.png
+│   ├── Letter of Recommendation.png
+│   ├── Project Completion Letter.png
+│   └── Training.png
+│
+├── Notebooks/                       # Core Learning Modules
+│   ├── PYTHON_CRASH_COURSE_DAY_1.ipynb  # Foundations
+│   ├── ...
+│   └── PYTHON_CRASH_COURSE_DAY_12.ipynb # Deep Learning
+│
+├── Dataset/                         # Data Assets
+│   ├── dataset.csv                  # Real Estate Market Data
+│   └── ...                          # Supporting CSV Assets
+│
+├── Notes/                           # Educational Resources
+│   └── ...                          # Reference Materials
+│
+├── .gitattributes                   # Git LFS/Attribute Configuration
+├── .gitignore                       # Project Ignore Patterns
+├── CITATION.cff                     # Project Citation Manifest
+├── codemeta.json                    # Metadata Standard
+├── LICENSE                          # MIT License
+├── README.md                        # Project Entrance
+└── SECURITY.md                      # Security Protocols
+```
+
+---
+
 <a name="projects"></a>
 ## Featured Project
 
@@ -205,50 +253,6 @@ By leveraging **Scikit-learn**, the system models the real estate landscape wher
 </div>
 
 ---
-
-<!-- STRUCTURE -->
-<a name="project-structure"></a>
-## Project Structure
-
-```python
-PYTHON-CRASH-COURSE/
-│
-├── screenshots/                     # Project UI Visuals
-│   ├── home_page.png                # Landing Interface
-│   ├── prediction_input.png         # Input Methodology
-│   └── price_result.png             # Output Estimation
-│
-├── docs/                            # Documentation Layer
-│   └── SPECIFICATION.md             # Technical Architecture
-│
-├── Mega/                            # Attribution Assets
-│   ├── Filly.jpg                    # Companion (Filly)
-│   └── Mega.png                     # Profile Image (Mega Satish)
-│
-├── Certificates/                    # Course Completion Credentials
-│   ├── Internship Completion ...png # Internship Completion Letter
-│   ├── Letter of Recommendation.png # Letter of Recommendation
-│   ├── Project Completion ...png    # Project Completion Letter
-│   └── Training.png                 # Course Training Certificate
-│
-├── Notebooks/                       # Core Learning Modules
-│   ├── PYTHON_CRASH_COURSE_DAY_1.ipynb  # Foundations
-│   ├── ...
-│   └── PYTHON_CRASH_COURSE_DAY_12.ipynb # Deep Learning
-│
-├── Dataset/                         # Data Assets
-│   └── ...                          # CSV and Data Files
-│
-├── Notes/                           # Educational Resources
-│   └── ...                          # PDFs and Reference Materials
-│
-├── CITATION.cff                     # Project Citation Manifest
-├── codemeta.json                    # Metadata Standard
-├── LICENSE                          # MIT License
-├── README.md                        # Project Entrance
-└── SECURITY.md                      # Security Protocols
-```
-
 ---
 
 <a name="results"></a>
@@ -367,7 +371,7 @@ Special thanks to the **mentors and peers** whose encouragement, discussions, an
 
   [↑ Back to Top](#readme-top)
 
-  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Activity](#activity) &nbsp;·&nbsp; [Curriculum](#features) &nbsp;·&nbsp; [Project](#projects) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Certifications](#results) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Activity](#activity) &nbsp;·&nbsp; [Curriculum](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Project](#projects) &nbsp;·&nbsp; [Certifications](#results) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
   <br>
 
