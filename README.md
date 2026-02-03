@@ -45,7 +45,7 @@
 <a name="overview"></a>
 ## Overview
 
-**Python Crash Course** was conceived as a rigorous collaborative initiative between [**Amey Thakur**](https://github.com/Amey-Thakur) and [**Mega Satish**](https://github.com/msatmod). Driven by a shared objective to master the Python language, this project represents the culmination of a disciplined 12-day crash course. Through mutual dedication and daily practice, we successfully navigated the curriculum, from foundational logic to advanced machine learning models, earning recognized certifications as a testament to this scholarly effort.
+**Python Crash Course** features the **IIT Ropar – Diginique Techlabs: Python Crash Course in Data Science, Machine Learning, and Artificial Intelligence**. Curated by [**Amey Thakur**](https://github.com/Amey-Thakur) and [**Mega Satish**](https://github.com/msatmod), this project documents a disciplined 12-day curriculum. We successfully navigated the course material, from foundational logic to advanced machine learning models, earning recognized certifications as a testament to this scholarly effort.
 
 The project demonstrates a disciplined approach to upskilling in Data Science, leveraging the **Python Ecosystem** (Pandas, Numpy, Scikit-Learn, TensorFlow) to solve real-world analytical problems.
 
