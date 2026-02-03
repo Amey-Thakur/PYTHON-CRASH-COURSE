@@ -5,10 +5,8 @@
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
   ![Status](https://img.shields.io/badge/Status-Completed-success)
-  [![Technology](https://img.shields.io/badge/Technology-Python%20%7C%20Data%20Science-3776AB)](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE)
+  [![Technology](https://img.shields.io/badge/Technology-Python%20%7C%20Data%20Science-blueviolet)](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE)
   [![Developed by Amey Thakur and Mega Satish](https://img.shields.io/badge/Developed%20by-Amey%20Thakur%20%26%20Mega%20Satish-blue.svg)](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE)
-
-  **[View Interactive Portfolio](https://github.com/Amey-Thakur)**
 
   A disciplined 12-day collaborative challenge undertaken to master Python programming, machine learning, and artificial intelligence, featuring a structured curriculum from basic syntax to advanced deep learning and certification.
 
