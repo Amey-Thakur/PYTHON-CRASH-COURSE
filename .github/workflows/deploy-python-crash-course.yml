@@ -1,0 +1,70 @@
+name: "Deploy Python Crash Course"
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install nbconvert notebook pandocfilters jinja2
+
+      - name: Create Web Directories
+        run: mkdir -p web/notebooks web/Certificates web/Mega web/screenshots
+
+      - name: Copy Assets
+        run: |
+          cp -r Certificates/* web/Certificates/ || true
+          cp -r Mega/* web/Mega/ || true
+          cp -r screenshots/* web/screenshots/ || true
+
+      - name: Convert Notebooks to HTML
+        run: |
+          find Notebooks -name "*.ipynb" -exec jupyter nbconvert --to html --template full --output-dir=./web/notebooks {} +
+          
+      - name: Standardize Filenames
+        run: |
+          cd web/notebooks
+          shopt -s nullglob
+          for f in *.html; do
+            echo "Processing $f..."
+            # Extract number from filename (e.g., "PYTHON_CRASH_COURSE_DAY_1.html" -> "1")
+            num=$(echo "$f" | grep -oEi 'DAY_[0-9]+' | grep -oEi '[0-9]+' || echo "")
+            if [ ! -z "$num" ]; then
+              # Note: Our app expects day1.html, day2.html etc (not day01.html)
+              echo "Standardizing $f to day${num}.html"
+              mv "$f" "day${num}.html"
+            else
+              echo "Skipping $f (No Day number found)"
+            fi
+          done
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './web'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
