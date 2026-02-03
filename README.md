@@ -111,7 +111,11 @@ The curriculum is governed by strict **computational data science principles**:
 - [x] **Day 11** - Naive Bayes, KMeans Clustering &nbsp;&nbsp; [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white)](https://www.kaggle.com/code/ameythakur20/python-crash-course-day-11) &nbsp;&nbsp; [![Colab](https://img.shields.io/badge/Colab-F9AB00?logo=Google-Colab&logoColor=white)](https://colab.research.google.com/github/Amey-Thakur/PYTHON-CRASH-COURSE/blob/main/Notebooks/PYTHON_CRASH_COURSE_DAY_11.ipynb)
 - [x] **Day 12** - Stock Price Prediction (RNN) &nbsp;&nbsp; [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white)](https://www.kaggle.com/code/ameythakur20/python-crash-course-day-12) &nbsp;&nbsp; [![Colab](https://img.shields.io/badge/Colab-F9AB00?logo=Google-Colab&logoColor=white)](https://colab.research.google.com/github/Amey-Thakur/PYTHON-CRASH-COURSE/blob/main/Notebooks/PYTHON_CRASH_COURSE_DAY_12.ipynb)
 
-<br>
+> [!NOTE]
+> ### Detailed Daily Logs
+> Detailed code and notebooks for every single day are available in the repository structure. Refer to the directory tree below to navigate to specific topics.
+
+---
 
 ### 🚀 Featured Project
 **[Bangalore House Price Prediction](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION)**  
@@ -127,9 +131,9 @@ _A robust regression study targeting real-world property valuation._
   <img src="https://user-images.githubusercontent.com/54937357/128646460-0025fd0c-9dcb-4474-9019-043bbda4353c.png" width="32%" alt="Project Screenshot 3">
 </div>
 
-> [!NOTE]
-> ### Detailed Daily Logs
-> Detailed code and notebooks for every single day are available in the repository structure. Refer to the directory tree below to navigate to specific topics.
+> [!IMPORTANT]
+> ### 🏠 Property Valuation Intelligence
+> This project represents the practical application of the **Python Crash Course** curriculum. It features an end-to-end Machine Learning pipeline—from outlier detection and dimensionality reduction to model serving via Flask. The study was officially published in the **International Research Journal of Engineering and Technology (IRJET)**, demonstrating scholarly impact in applied AI.
 
 ---
 
