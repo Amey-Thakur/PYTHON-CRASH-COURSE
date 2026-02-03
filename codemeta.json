@@ -1,0 +1,40 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "name": "PYTHON-CRASH-COURSE",
+    "description": "A comprehensive repository documenting a structured journey into Python programming, covering machine learning, data science, and AI. This project serves as an educational resource for Python fundamentals and project implementations.",
+    "identifier": "PYTHON-CRASH-COURSE",
+    "license": "https://spdx.org/licenses/MIT.html",
+    "programmingLanguage": [
+        "Python",
+        "Jupyter Notebook",
+        "Markdown"
+    ],
+    "author": [
+        {
+            "@type": "Person",
+            "givenName": "Amey",
+            "familyName": "Thakur",
+            "id": "https://orcid.org/0000-0001-5644-1575"
+        },
+        {
+            "@type": "Person",
+            "givenName": "Mega",
+            "familyName": "Satish",
+            "id": "https://orcid.org/0000-0002-1844-9557"
+        }
+    ],
+    "dateReleased": "2021-08-08",
+    "codeRepository": "https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE",
+    "developmentStatus": "complete",
+    "applicationCategory": "Education / Data Science",
+    "keywords": [
+        "Python",
+        "Data Science",
+        "Machine Learning",
+        "AI",
+        "Jupyter Notebook",
+        "Regression",
+        "Classification"
+    ]
+}
