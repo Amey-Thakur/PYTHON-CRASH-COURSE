@@ -146,9 +146,6 @@ The curriculum is governed by strict **computational data science principles**:
 
 By leveraging **Scikit-learn**, the system models the real estate landscape where an algorithm learns the relationship between independent variables (Location, Sqft, BHK) and the dependent variable (Price). The model is served via a **Flask** web server for real-time estimation.
 
-> [!IMPORTANT]
-> ### 🏠 Property Valuation Intelligence
-> This project represents the practical application of the **Python Crash Course** curriculum. It features an end-to-end Machine Learning pipeline, from outlier detection and dimensionality reduction to model serving via Flask.
 
 
 > [!NOTE]
@@ -182,19 +179,30 @@ By leveraging **Scikit-learn**, the system models the real estate landscape wher
 | **Model Persistence** | Serialization of the trained model using **Pickle** for deployment. |
 | **Web Interface** | User-friendly UI built with **HTML/CSS/JS** and served via **Flask**. |
 
+> [!IMPORTANT]
+> ### 🏠 Property Valuation Intelligence
+> This project represents the practical application of the **Python Crash Course** curriculum. It features an end-to-end Machine Learning pipeline, from outlier detection and dimensionality reduction to model serving via Flask.
+
 ### Result
 
-#### 1. User Interface: Home Page
-Clean and intuitive web interface for property parameters.
-![Home Page](screenshots/home_page.png)
+<div align="center">
+  <h4>1. User Interface: Home Page</h4>
+  <i>Clean and intuitive web interface for property parameters.</i>
+  <br><br>
+  <img src="screenshots/home_page.png" width="80%" alt="Home Page">
+  <br><br><br>
 
-#### 2. Prediction Input: Feature Selection
-User selection of Location, SQFT, BHK, and Bathrooms.
-![Prediction Input](screenshots/prediction_input.png)
+  <h4>2. Prediction Input: Feature Selection</h4>
+  <i>User selection of Location, SQFT, BHK, and Bathrooms.</i>
+  <br><br>
+  <img src="screenshots/prediction_input.png" width="80%" alt="Prediction Input">
+  <br><br><br>
 
-#### 3. Estimation Result: Price Prediction
-Real-time price estimation based on the trained regression model.
-![Price Result](screenshots/price_result.png)
+  <h4>3. Estimation Result: Price Prediction</h4>
+  <i>Real-time price estimation based on the trained regression model.</i>
+  <br><br>
+  <img src="screenshots/price_result.png" width="80%" alt="Price Result">
+</div>
 
 ---
 
