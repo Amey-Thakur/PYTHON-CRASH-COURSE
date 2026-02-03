@@ -119,13 +119,28 @@ The curriculum is governed by strict **computational data science principles**:
 
 <!-- PROJECTS -->
 <a name="projects"></a>
-## Featured Project
+<div align="center">
+  <h2>🏠 Featured Project</h2>
+</div>
+
 **[Bangalore House Price Prediction](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION)**  
 _A robust regression study targeting real-world property valuation._
 
-[![Live Web App](https://img.shields.io/badge/Web%20App-Live-brightgreen?style=for-the-badge&logo=heroku)](https://bangalorehousepriceprediction.herokuapp.com)
-[![Research Paper](https://img.shields.io/badge/Paper-IRJET-blue?style=for-the-badge&logo=adobeacrobatreader)](https://www.irjet.net/archives/V8/i9/IRJET-V8I934.pdf)
-[![Preprint](https://img.shields.io/badge/Preprint-viXra-orange?style=for-the-badge)](https://vixra.org/abs/2110.0026)
+<div align="center">
+  <br>
+  <a href="https://bangalorehousepriceprediction.herokuapp.com">
+    <img src="https://img.shields.io/badge/Live%20Demo-Web%20App-brightgreen?style=for-the-badge&logo=heroku" alt="Live Demo">
+  </a>
+  &nbsp;
+  <a href="https://www.irjet.net/archives/V8/i9/IRJET-V8I934.pdf">
+    <img src="https://img.shields.io/badge/Publication-IRJET%20Paper-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Publication">
+  </a>
+  &nbsp;
+  <a href="https://vixra.org/abs/2110.0026">
+    <img src="https://img.shields.io/badge/Preprint-viXra%20Archive-orange?style=for-the-badge" alt="Preprint">
+  </a>
+  <br><br>
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/54937357/128646443-47cd8c0d-6dbb-40bf-b9c7-d992bee3a3db.png" width="32%" alt="Project Screenshot 1">
@@ -135,7 +150,23 @@ _A robust regression study targeting real-world property valuation._
 
 > [!IMPORTANT]
 > ### 🏠 Property Valuation Intelligence
-> This project represents the practical application of the **Python Crash Course** curriculum. It features an end-to-end Machine Learning pipeline—from outlier detection and dimensionality reduction to model serving via Flask. The study was officially published in the **International Research Journal of Engineering and Technology (IRJET)**, demonstrating scholarly impact in applied AI.
+> This project represents the practical application of the **Python Crash Course** curriculum. It features an end-to-end Machine Learning pipeline—from outlier detection and dimensionality reduction to model serving via Flask. 
+
+### Research Impact & Certification
+This project was published as a research paper in the **International Research Journal of Engineering and Technology (IRJET)** (Volume 8, Issue 9) and received an official **Publication Certificate** for its research contribution to machine learning education.
+
+- [Preprint @viXra](https://vixra.org/abs/2110.0026)
+- [Published Paper @IRJET](https://www.irjet.net/archives/V8/i9/IRJET-V8I934.pdf)
+- [Publication Certificate](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION/blob/main/Research%20Paper/IRJET%20-%20Bangalore%20House%20Price%20Prediction.jpg)
+
+### Technical Stack & Features
+| Component | Technical Description |
+|-----------|-----------------------|
+| **Data Cleaning** | Automated pipeline for handling missing values and removing logical inconsistencies. |
+| **Feature Engineering** | Transformation of categorical features using One-Hot Encoding and reduction of rare labels. |
+| **Regression Logic** | Implementation of **Linear/Lasso/Ridge** algorithms for price approximation. |
+| **Model Persistence** | Serialization of the trained model using **Pickle** for deployment. |
+| **Web Interface** | User-friendly UI built with **HTML/CSS/JS** and served via **Flask**. |
 
 ---
 
