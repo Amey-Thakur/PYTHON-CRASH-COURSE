@@ -143,6 +143,20 @@ function openCertModal(idx) {
 
 function setupEventListeners() {
     document.getElementById('theme-toggle').onclick = toggleTheme;
+    document.getElementById('share-btn').onclick = sharePage;
+
+    const backToTop = document.getElementById('back-to-top');
+    window.onscroll = () => {
+        if (window.scrollY > 300) {
+            backToTop.classList.add('visible');
+        } else {
+            backToTop.classList.remove('visible');
+        }
+    };
+
+    backToTop.onclick = () => {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    };
 
     document.querySelectorAll('.close-modal').forEach(btn => {
         btn.onclick = () => {
@@ -184,8 +198,11 @@ function initSecurity() {
         }
     };
 
-    // Easter Egg
-    console.log("%cPYTHON CRASH COURSE HUB", "color: #58a6ff; font-size: 30px; font-weight: 800;");
-    console.log("%cCollaboration by Amey Thakur & Mega Satish", "color: #bc8cff; font-size: 16px; italic;");
-    console.log("Challenge successfully completed with Mega Satish.");
+    // 🥚 Personalized Easter Egg: The Truth in Code
+    console.log(
+        "%c🐍 PYTHON CRASH COURSE ARCHIVE %c\n\nAuthorship: Amey Thakur & Mega Satish\nProject: Python Crash Course\n\n%c\"Challenge successfully completed with Mega Satish.\"",
+        "color: #58a6ff; font-size: 24px; font-weight: bold; font-family: 'Inter', sans-serif; text-shadow: 2px 2px 0px rgba(0,0,0,0.2);",
+        "color: #f0f6fc; font-size: 16px; font-family: 'Inter', sans-serif; font-weight: 500;",
+        "color: #bc8cff; font-style: italic; font-size: 14px;"
+    );
 }
