@@ -148,15 +148,8 @@ By leveraging **Scikit-learn**, the system models the real estate landscape wher
 
 > [!IMPORTANT]
 > ### 🏠 Property Valuation Intelligence
-> This project represents the practical application of the **Python Crash Course** curriculum. It features an end-to-end Machine Learning pipeline—from outlier detection and dimensionality reduction to model serving via Flask.
+> This project represents the practical application of the **Python Crash Course** curriculum. It features an end-to-end Machine Learning pipeline, from outlier detection and dimensionality reduction to model serving via Flask.
 
-<div align="center">
-  <br>
-  <img src="https://user-images.githubusercontent.com/54937357/128646443-47cd8c0d-6dbb-40bf-b9c7-d992bee3a3db.png" width="32%" alt="Project Screenshot 1">
-  <img src="https://user-images.githubusercontent.com/54937357/128646450-0196b72e-631d-44ca-b108-b4ea190a97f6.png" width="32%" alt="Project Screenshot 2">
-  <img src="https://user-images.githubusercontent.com/54937357/128646460-0025fd0c-9dcb-4474-9019-043bbda4353c.png" width="32%" alt="Project Screenshot 3">
-  <br><br>
-</div>
 
 > [!NOTE]
 > ### Research Impact & Certification
@@ -189,6 +182,20 @@ By leveraging **Scikit-learn**, the system models the real estate landscape wher
 | **Model Persistence** | Serialization of the trained model using **Pickle** for deployment. |
 | **Web Interface** | User-friendly UI built with **HTML/CSS/JS** and served via **Flask**. |
 
+### Result
+
+#### 1. User Interface: Home Page
+Clean and intuitive web interface for property parameters.
+![Home Page](screenshots/home_page.png)
+
+#### 2. Prediction Input: Feature Selection
+User selection of Location, SQFT, BHK, and Bathrooms.
+![Prediction Input](screenshots/prediction_input.png)
+
+#### 3. Estimation Result: Price Prediction
+Real-time price estimation based on the trained regression model.
+![Price Result](screenshots/price_result.png)
+
 ---
 
 <!-- STRUCTURE -->
@@ -197,6 +204,11 @@ By leveraging **Scikit-learn**, the system models the real estate landscape wher
 
 ```python
 PYTHON-CRASH-COURSE/
+│
+├── screenshots/                     # Project UI Visuals
+│   ├── home_page.png                # Landing Interface
+│   ├── prediction_input.png         # Input Methodology
+│   └── price_result.png             # Output Estimation
 │
 ├── docs/                            # Documentation Layer
 │   └── SPECIFICATION.md             # Technical Architecture
