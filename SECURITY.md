@@ -38,4 +38,4 @@ This repository is preserved as a fixed academic and engineering project. Securi
 
 ---
 
-*This document defines the security posture of a finalized Python programming project.*
+*This document defines the security posture of a finalized Python Crash Course project.*

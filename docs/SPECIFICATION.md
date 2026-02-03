@@ -46,4 +46,4 @@ graph TD
 
 ---
 
-*Technical Specification | Python Language | Version 1.0*
+*Technical Specification | Python Crash Course | Version 1.0*
