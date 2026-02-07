@@ -952,7 +952,7 @@ section {
 }
 
 .author-link {
-    color: var(--text-primary);
+    color: var(--text-primary) !important;
     text-decoration: none;
     font-weight: 600;
     transition: color 0.3s ease;
