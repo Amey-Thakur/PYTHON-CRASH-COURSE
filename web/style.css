@@ -959,5 +959,5 @@ section {
 }
 
 .author-link:hover {
-    color: var(--accent-blue);
+    color: var(--accent-blue) !important;
 }
