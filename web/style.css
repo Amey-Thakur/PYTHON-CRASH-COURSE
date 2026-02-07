@@ -941,3 +941,23 @@ section {
         font-size: 2.2rem;
     }
 }
+
+/* Footer */
+.main-footer {
+    padding: 4rem 2rem;
+    text-align: center;
+    border-top: 1px solid var(--border-color);
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+}
+
+.author-link {
+    color: var(--text-primary);
+    text-decoration: none;
+    font-weight: 600;
+    transition: color 0.3s ease;
+}
+
+.author-link:hover {
+    color: var(--accent-blue);
+}
