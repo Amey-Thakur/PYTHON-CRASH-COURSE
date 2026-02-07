@@ -177,6 +177,37 @@ body {
     box-shadow: 0 20px 50px rgba(88, 166, 255, 0.15);
 }
 
+/* UI Controls */
+.top-controls {
+    position: absolute;
+    top: 2rem;
+    right: 2rem;
+    display: flex;
+    gap: 1rem;
+    z-index: 100;
+}
+
+.control-btn {
+    background: var(--panel-bg);
+    border: 1px solid var(--border-color);
+    color: var(--text-primary);
+    width: 44px;
+    height: 44px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    font-size: 1.2rem;
+}
+
+.control-btn:hover {
+    transform: translateY(-3px) scale(1.05);
+    border-color: var(--accent-blue);
+    box-shadow: 0 4px 12px rgba(88, 166, 255, 0.2);
+}
+
 /* Hero Identity Grid */
 .hero-identity-grid {
     display: flex;
