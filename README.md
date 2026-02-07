@@ -377,7 +377,7 @@ Special thanks to the **mentors and peers** whose encouragement, discussions, an
 
   <br>
 
-  🏆 **[Python Crash Course](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE)**
+  <img src="web/assets/python_logo.png" width="18" height="18" valign="middle"> **[Python Crash Course](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE)**
 
   ---
 
