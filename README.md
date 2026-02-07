@@ -1,7 +1,12 @@
 <div align="center">
 
   <a name="readme-top"></a>
-  # <img src="web/assets/python_logo.png" width="48" height="48" style="vertical-align: bottom;"> Python Crash Course
+  <h1 align="center">
+    <a href="https://www.python.org">
+      <img src="web/assets/python_logo.png" width="55" height="55" alt="Python Logo">
+    </a><br>
+    Python Crash Course
+  </h1>
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
   ![Status](https://img.shields.io/badge/Status-Completed-success)
