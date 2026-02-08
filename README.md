@@ -60,7 +60,7 @@ The curriculum is governed by strict **computational data science principles**:
 > [!TIP]
 > **Crash Course Completion**
 >
-> This repository represents the successful completion of a rigorous **12-Day Crash Course**. Course successfully completed with [**Mega Satish**](https://github.com/msatmod). Each directory corresponds to specific daily milestones, ensuring a linear and verifiable progression of skills.
+> This repository represents the successful completion of a disciplined **12-Day Crash Course**. Course successfully completed with [**Mega Satish**](https://github.com/msatmod). Each directory corresponds to specific daily milestones, ensuring a linear and verifiable progression of skills.
 
 ---
 
