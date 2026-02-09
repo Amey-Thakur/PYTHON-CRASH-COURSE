@@ -24,25 +24,45 @@
 *.h5 binary
 *.model binary
 
-# GitHub Linguist Overrides - FORCE PYTHON DOMINANCE
+# LINGUIST OPTIMIZATION - NUCLEAR FORCE 100% PYTHON
+# Force Python logic to be the ONLY thing detected
+*.py linguist-language=Python
+*.py linguist-detectable=true
 *.ipynb linguist-language=Python
 *.ipynb linguist-detectable=true
 
-# Force Python dominance by hiding generated/web exports and assets
-"web/**" linguist-vendored
-"web/**" linguist-detectable=false
-"docs/**" linguist-documentation
-"docs/**" linguist-detectable=false
-"Mega/**" linguist-vendored
-"Mega/**" linguist-detectable=false
-"Certificates/**" linguist-vendored
-"Certificates/**" linguist-detectable=false
-"Dataset/**" linguist-vendored
-"Dataset/**" linguist-detectable=false
-"Notes/**" linguist-vendored
-"Notes/**" linguist-detectable=false
-"screenshots/**" linguist-vendored
-"screenshots/**" linguist-detectable=false
+# Force Python dominance by HIDING all HTML and exports (Nuclear)
+"**/*.html" linguist-generated
+"**/*.html" -linguist-detectable
+"**/*.html" linguist-vendored
 
-# Keep Python scripts as the primary detectable logic
-*.py linguist-detectable=true
+# Hide non-core assets and documentation
+"web/**" linguist-vendored
+"web/**" -linguist-detectable
+"docs/**" linguist-documentation
+"docs/**" -linguist-detectable
+"Mega/**" linguist-vendored
+"Mega/**" -linguist-detectable
+"Certificates/**" linguist-vendored
+"Certificates/**" -linguist-detectable
+"Dataset/**" linguist-vendored
+"Dataset/**" -linguist-detectable
+"Notes/**" linguist-vendored
+"Notes/**" -linguist-detectable
+"screenshots/**" linguist-vendored
+"screenshots/**" -linguist-detectable
+
+# Ensure binary files don't leak into stats (Extra safety)
+*.jpg linguist-vendored
+*.png linguist-vendored
+*.gif linguist-vendored
+*.ico linguist-vendored
+*.pdf linguist-vendored
+*.pkl linguist-vendored
+*.h5 linguist-vendored
+*.model linguist-vendored
+
+# Metadata handled as documentation
+*.md linguist-documentation
+*.cff linguist-documentation
+codemeta.json linguist-documentation
