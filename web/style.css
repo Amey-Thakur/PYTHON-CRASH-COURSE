@@ -55,7 +55,7 @@ body {
 }
 
 ::-webkit-scrollbar-thumb {
-    background: var(--border-color);
+    background: var(--accent-blue);
     border-radius: 10px;
 }
 
@@ -1005,7 +1005,17 @@ section {
     border: 1px solid rgba(255, 255, 255, 0.2) !important;
 }
 
+#cert-modal #download-cert-link {
+    background: var(--accent-blue) !important;
+    border-color: var(--accent-blue) !important;
+}
+
 #cert-modal .action-btn:hover {
     background: rgba(255, 255, 255, 0.2) !important;
     border-color: #fff !important;
+}
+
+#cert-modal #download-cert-link:hover {
+    filter: brightness(1.1);
+    transform: translateY(-2px);
 }
