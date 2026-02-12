@@ -992,3 +992,20 @@ section {
 .author-link:hover {
     color: var(--accent-blue) !important;
 }
+
+/* Certificate Modal High-Contrast Fix */
+#cert-modal .modal-header h3,
+#cert-modal .close-modal {
+    color: #fff !important;
+}
+
+#cert-modal .action-btn {
+    background: rgba(255, 255, 255, 0.1) !important;
+    color: #fff !important;
+    border: 1px solid rgba(255, 255, 255, 0.2) !important;
+}
+
+#cert-modal .action-btn:hover {
+    background: rgba(255, 255, 255, 0.2) !important;
+    border-color: #fff !important;
+}
