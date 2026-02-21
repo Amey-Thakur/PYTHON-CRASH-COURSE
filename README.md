@@ -320,11 +320,12 @@ jupyter notebook
 ```
 
 > [!TIP]
-> ### Pythonic Academy Simulation | Interactive Portfolio Hub
+> ### Pythonic Academy | Interactive Portfolio Hub
 >
-> Experience the complete **Python Crash Course** ecosystem directly in your browser through the centralized **Interactive Portfolio**. This hub serves as a scholarly gateway that orchestrates your journey through 12 days of curriculum milestones, providing a visual demonstration of skill evolution, credential validation, and featured project integration across the modern AI landscape.
+> Experience the complete **Python Crash Course** ecosystem directly in the browser through the centralized **Interactive Portfolio**. This hub serves as a scholarly gateway that orchestrates the 12-day implementation of curriculum milestones, providing a visual demonstration of skill evolution, credential validation, and featured project integration across the modern AI landscape.
 >
 > [**Launch Interactive Portfolio on GitHub Pages**](https://Amey-Thakur.github.io/PYTHON-CRASH-COURSE/)
+
 
 ---
 
