@@ -1,12 +1,11 @@
 <div align="center">
 
-  <a name="readme-top"></a>
   # <img src="web/assets/python_logo.png" width="48" height="48" valign="middle"> Python Crash Course
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
-  ![Status](https://img.shields.io/badge/Status-Completed-success)
-  [![Technology](https://img.shields.io/badge/Technology-Python%20%7C%20Data%20Science-blueviolet)](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE)
-  [![Curated by Amey Thakur and Mega Satish](https://img.shields.io/badge/Curated%20by-Amey%20Thakur%20%26%20Mega%20Satish-blue.svg)](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE)
+  ![Status](https://img.shields.io/badge/Status-Completed-2EA043)
+  [![Technology](https://img.shields.io/badge/Technology-Python%20%7C%20Data%20Science-8250DF)](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE)
+  [![Curated by Amey Thakur and Mega Satish](https://img.shields.io/badge/Curated%20by-Amey%20Thakur%20%26%20Mega%20Satish-0969DA.svg)](https://github.com/Amey-Thakur/PYTHON-CRASH-COURSE)
 
   **[View Interactive Portfolio](https://Amey-Thakur.github.io/PYTHON-CRASH-COURSE/)**
 
@@ -32,7 +31,7 @@
   <a name="authors"></a>
   ## Authors
 
-| <a href="https://github.com/Amey-Thakur"><img src="https://github.com/Amey-Thakur.png" width="150" height="150" alt="Amey Thakur"></a><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-green.svg)](https://orcid.org/0000-0001-5644-1575) | <a href="https://github.com/msatmod"><img src="Mega/Mega.png" width="150" height="150" alt="Mega Satish"></a><br>[**Mega Satish**](https://github.com/msatmod)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1844--9557-green.svg)](https://orcid.org/0000-0002-1844-9557) |
+| <a href="https://github.com/Amey-Thakur"><img src="https://github.com/Amey-Thakur.png" width="150" height="150" alt="Amey Thakur"></a><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-A6CE39.svg)](https://orcid.org/0000-0001-5644-1575) | <a href="https://github.com/msatmod"><img src="Mega/Mega.png" width="150" height="150" alt="Mega Satish"></a><br>[**Mega Satish**](https://github.com/msatmod)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1844--9557-A6CE39.svg)](https://orcid.org/0000-0002-1844-9557) |
 | :---: | :---: |
 
 </div>
@@ -172,8 +171,8 @@ PYTHON-CRASH-COURSE/
 
 <div align="center">
   <h3>🏠 <a href="https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION">Bangalore House Price Prediction</a></h3>
-  <a href="https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION"><img src="https://img.shields.io/badge/GitHub-Repository-black?logo=github" alt="GitHub"></a> &nbsp;
-  <a href="https://huggingface.co/spaces/ameythakur/Bangalore-House-Price-Prediction"><img src="https://img.shields.io/badge/Live%20Demo-Web%20App-brightgreen?logo=huggingface" alt="Live Demo"></a> &nbsp;
+  <a href="https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION"><img src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github" alt="GitHub"></a> &nbsp;
+  <a href="https://huggingface.co/spaces/ameythakur/Bangalore-House-Price-Prediction"><img src="https://img.shields.io/badge/Live%20Demo-Web%20App-00B8D9?logo=huggingface" alt="Live Demo"></a> &nbsp;
   <a href="https://youtu.be/HaiXYHBPHVg"><img src="https://img.shields.io/badge/Video%20Demo-YouTube-red?logo=youtube" alt="Video Demo"></a> &nbsp;
   <a href="https://www.irjet.net/archives/V8/i9/IRJET-V8I934.pdf"><img src="https://img.shields.io/badge/Publication-IRJET%20Paper-blue?logo=adobeacrobatreader" alt="Publication"></a> &nbsp;
   <a href="https://vixra.org/abs/2110.0026"><img src="https://img.shields.io/badge/Preprint-viXra%20Archive-orange" alt="Preprint"></a>
@@ -379,7 +378,7 @@ Special thanks to the **mentors and peers** whose encouragement, discussions, an
 
 <div align="center">
 
-  [↑ Back to Top](#readme-top)
+  [↑ Back to Top](#img-srcwebassetspython_logopng-width48-height48-valignmiddle-python-crash-course)
 
   [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Activity](#activity) &nbsp;·&nbsp; [Curriculum](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Project](#projects) &nbsp;·&nbsp; [Certifications](#results) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
@@ -396,3 +395,4 @@ Special thanks to the **mentors and peers** whose encouragement, discussions, an
   *Semester-wise curriculum, laboratories, projects, and academic notes.*
 
 </div>
+
